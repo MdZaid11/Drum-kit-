@@ -62,6 +62,4 @@ function makeAnimation(key){
     },100)
 
 }
-function myfun(){
-  alert("welcome to dice game ")
-}
+
